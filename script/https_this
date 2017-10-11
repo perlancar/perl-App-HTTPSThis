@@ -10,6 +10,7 @@ use App::HTTPSThis;
 App::HTTPSThis->new->run;
 
 # ABSTRACT: Export the current directory over HTTPS
+# PODNAME:
 
 =head1 SYNOPSIS
 
